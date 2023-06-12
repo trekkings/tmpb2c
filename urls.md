@@ -11,3 +11,6 @@ https://api.klayers.cloud/api/v2/p3.9/layers/latest/ap-east-1/json
 
 layerd
 https://github.com/ronnathaniel/layerd
+
+pip3 install layerd
+layerd <ARN>
