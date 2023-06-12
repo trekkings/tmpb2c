@@ -9,6 +9,5 @@ https://api.klayers.cloud/api/v2/p3.9/layers/latest/ap-east-1/json
 {"package": "requests", "packageVersion": "2.31.0", "arn": "arn:aws:lambda:ap-east-1:770693421928:layer:Klayers-p39-requests:14"}
 
 
----
 layerd
 https://github.com/ronnathaniel/layerd
